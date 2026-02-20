@@ -43,7 +43,7 @@ div {
   border-bottom-right-radius: 30px;
   width: 50%;
   margin: 50px;
-  
+  box-shadow: 2px 6px 20px #b4aea4;
 }
 
 img {
