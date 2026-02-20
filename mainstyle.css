@@ -64,11 +64,13 @@ a {
   font-weight: bold;
 }
 .button1 {
+  box-shadow: 2px 2px 6px #788590;
   text-decoration-style: dotted;
   width: fit-content;
   padding: 10px;
   margin: 0 auto;
-  border-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
   color: #FFECCF;
   background: #78A3C5;
   font-size: 20px;
