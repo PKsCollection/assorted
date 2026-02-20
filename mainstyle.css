@@ -59,9 +59,11 @@ ul {
   line-height: 2;
 }
 a {
-  color: red;
+  color: #F36F6F;
   font-family: monospace;
   font-weight: bold;
+
+  /* i want this color  #f36f6f #F36F6F */
 }
 .button1 {
   text-decoration-style: dotted;
