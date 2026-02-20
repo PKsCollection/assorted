@@ -54,6 +54,15 @@ img {
   width: 70%;
   padding-top: 10px;
 }
+ul {
+  list-style-image: url('strawberry.gif');
+  line-height: 2;
+}
+a {
+  color: #78A3C5;
+  font-family: monospace;
+  font-weight: bold;
+}
 .button1 {
   text-decoration-style: dotted;
   width: fit-content;
