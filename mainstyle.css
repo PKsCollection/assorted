@@ -74,3 +74,7 @@ a {
   background: #78A3C5;
   font-size: 20px;
 }
+.backflip {
+  float: right;
+  width: auto;
+}
