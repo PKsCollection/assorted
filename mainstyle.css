@@ -1,0 +1,63 @@
+body {
+  background: white;
+}
+p {
+  color: #78A3C5;
+  font-family: sans-serif;
+  
+}
+h1 {
+  color:#FFECCF;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 3px 3px 1px #A2C6D8; 
+}
+h2 {
+  background: #A2C6D8;
+  width: fit-content;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 5px;
+  color: #FFECCF;  
+}
+h3 {
+  font-family: monospace;
+  font-size: 25px;
+  color: #78A3C5;
+}
+body {
+  background-image: url(texturedPaper.jpg); 
+  
+}
+
+div {
+  background-color: #CAD8E6;
+  padding: 20px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+
+  margin: 50px;
+  
+}
+
+img {
+  border-radius: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding-top: 10px;
+}
+.button1 {
+  text-decoration-style: dotted;
+  width: fit-content;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 5px;
+  color: #FFECCF;
+  background: #78A3C5;
+  font-size: 20px;
+  
+}
