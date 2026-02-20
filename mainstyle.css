@@ -27,6 +27,10 @@ h3 {
   font-size: 25px;
   color: #78A3C5;
 }
+h6 {
+  color: #78A3C5;
+  font-family:sans-serif;
+}
 body {
   background-image: url(texturedPaper.jpg); 
   
