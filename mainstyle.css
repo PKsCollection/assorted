@@ -55,7 +55,7 @@ img {
   padding-top: 10px;
 }
 ul {
-  list-style-image: url('strawberry.gif');
+  list-style-image: url(strawberry.gif);
   line-height: 2;
 }
 a {
